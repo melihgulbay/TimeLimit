@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/build/
+local.properties
+
+# Java heap dumps
+*.hprof
+
+# Build logs
+build_output.txt
+build_output_utf8.txt
+gradle_build_log.txt
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (Excluded for interview push)
+docs/
